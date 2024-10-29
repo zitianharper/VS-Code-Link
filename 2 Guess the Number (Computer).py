@@ -14,5 +14,5 @@ def guess(x):
 
 guess(10)    
 
-git push
+
 
